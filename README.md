@@ -2,4 +2,4 @@
 
 This is simple Portfolio Website template that was one of my first projects. 
 
-This project was made HTML & CSS.
+This project was made using HTML & CSS.
